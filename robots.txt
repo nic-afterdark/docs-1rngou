@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-iunb4f.shadowdiary.com/sitemap.xml
